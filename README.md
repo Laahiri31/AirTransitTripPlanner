@@ -1,5 +1,5 @@
 ## ✈️ Air Transit Trip Planner
-
+Live App : https://magical-lollipop-839b79.netlify.app/
 ### 🧭 Smart Tourism Assistant for Transit Passengers | DevOps-Enabled Project
 
 **Air Transit Trip Planner** is an intelligent travel assistant that helps **airport transit passengers** make the most of their layover time by planning **short trips to nearby tourist spots**. It uses **Google Maps API** and **Google Places API** to suggest attractions based on the passenger's current location, available transit hours, and flight schedule.
